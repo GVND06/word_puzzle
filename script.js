@@ -1,4 +1,4 @@
-const words = ["javascript", "html", "css", "react", "node", "python", "java"];
+const words = ["javascript", "html", "css", "react", "node", "python", "java", "gemini", "developer", "google", "cloud", "ai", "machinelearning", "coding", "algorithm"];
 let currentWord = "";
 let scrambledWord = "";
 let score = 0;
